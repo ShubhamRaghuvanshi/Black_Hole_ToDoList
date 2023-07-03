@@ -1,12 +1,15 @@
 # Black_Hole_ToDoList
 
-# Gadget2_polysink
-
-## Modified Version of Cosmological simulation code Gadget2 with polytropic EOS, sink particles and constant external pressure boundaries.
-
-+ The following images show the disk fragmentation in primordial gas clouds for different degrees of rotation.The rotation parameter $\beta$ is the ratio of rotational energy to the gravitational energy of the cloud. While dots in the images are sink(star) particles in the simulations.
-
-## Logarithmically scaled number density
-
-## Temperature
-
++ Read RAMSES code paper and user manual
++ Read up about Black holes and LCDM cosmology 
++ + Black hole types and formation scenario
+  + Matematical details in GR
+  + Seeding mechanisms 
++ Set up cluster account on office desktop, laptop and Remote acees
++ Set up code editors and IDE for cluter(VSCode, sshfs) 
++ Run example simualtions (1Dtube) and analyze data
++ Understand details of DM initial conditions relavant for simulation
++ Generate Initial conditions (graphic, music)
++ Run DM simulations with MPI
++ Think of interesting aspects of the output and see how it fits the Standard model
++   
