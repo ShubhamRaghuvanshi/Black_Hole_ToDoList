@@ -2,7 +2,8 @@
 
 ## $\color{green} \text{Done} ,\color{yellow} \text{In progress}, \\color{Red} \text{Plan to start soon} $
 
-+ $\color{green} \text{Read RAMSES code paper and user manual}$+ $\color{green}\text{Read up about Black holes and LCDM cosmology}(z = \infty \to z=6) $
++ $\color{green} \text{Read RAMSES code paper and user manual}$
++ $\color{green}\text{Read up about Black holes and LCDM cosmology}(z = \infty \to z=6) $
   + $\color{green}\text{Black hole types and formation scenario}$
   + $\color{green}\text{Matematical details in GR}$
   + $\color{yellow}\text{Seeding mechanisms }$
