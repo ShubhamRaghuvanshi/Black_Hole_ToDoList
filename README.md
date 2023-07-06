@@ -2,8 +2,8 @@
 
 ```diff
 
-+ Read RAMSES code paper and user manual
-+ Read up about Black holes and LCDM cosmology 
+-+ Read RAMSES code paper and user manual
+-+ Read up about Black holes and LCDM cosmology 
   + Black hole types and formation scenario
   + Matematical details in GR
   + Seeding mechanisms 
