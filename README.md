@@ -11,7 +11,7 @@
 + $\color{green}\text{Set up cluster account on office desktop, laptop and Remote acees }$
 + $\color{green}\text{Set up code editors and IDE for cluter(VSCode, sshfs) }$
 + $\color{green}\text{Run example simualtions (1Dtube) and analyze data }$
-+ $\color{green}\text{Understand details of DM initial conditions relavant for simulation } $
++ $\color{yellow}\text{Understand details of DM initial conditions relavant for simulation } $
   + $\color{green}\text{Multi-scale initial conditions for cosmological simulations (O. Hahn, T. Abel) } $
   + $\color{yellow}\text{The large-scale orientations of disc galaxies (O. Hahn) }$
   + $\color{yellow}\text{The properties of cosmic velocity fields (O. Hahn, T. Abel) }$
