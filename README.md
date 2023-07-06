@@ -1,5 +1,7 @@
 # Black_Hole_ToDoList
 
+```diff
+
 + Read RAMSES code paper and user manual
 + Read up about Black holes and LCDM cosmology 
   + Black hole types and formation scenario
@@ -17,3 +19,5 @@
 + Run DM simulations with MPI
 + Think of interesting aspects of the output and see how it fits the Standard model
 +   
+
+'''
