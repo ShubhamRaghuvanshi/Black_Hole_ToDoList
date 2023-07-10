@@ -16,7 +16,7 @@
   + $\color{orange}\text{The large-scale orientations of disc galaxies (O. Hahn) }$
   + $\color{orange}\text{The properties of cosmic velocity fields (O. Hahn, T. Abel) }$
   + $\color{green}\text{Multiscale Gaussian Random Fields and Their Application to Cosmological Simulations (Edmund Bertschinger) } $
-+ $\color{orange}\text{Generate Initial conditions (graphic, music) }$
++ $\color{green}\text{Generate DM Initial conditions (graphic, music) }$
 + $\color{red}\text{Run DM simulations with MPI }$
 + $\color{red}\text{Think of interesting aspects of the output and see how it fits the Standard model }$
 
