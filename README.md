@@ -17,7 +17,7 @@
   + $\color{orange}\text{The properties of cosmic velocity fields (O. Hahn, T. Abel) }$
   + $\color{green}\text{Multiscale Gaussian Random Fields and Their Application to Cosmological Simulations (Edmund Bertschinger) } $
 + $\color{green}\text{Generate DM Initial conditions (graphic, music) }$
-+ $\color{red}\text{Run DM simulations with MPI }$
-+ $\color{red}\text{Think of interesting aspects of the output and see how it fits the Standard model }$
++ $\color{green}\text{Run DM simulations with MPI }$
++ $\color{green}\text{Think and plot interesting aspects of the output and see how it fits the Standard model }$
 
 
