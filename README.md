@@ -4,7 +4,7 @@
 
 + $\color{green} \text{Read RAMSES code paper and user manual}$
 + $\color{orange}\text{Read up about Black holes and LCDM cosmology}(z = \infty \to z=6) $
-  + $\color{green}\text{Black hole types and formation scenario}$
+  + $\color{orange}\text{Black hole types and formation scenario}$
   + $\color{green}\text{Matematical details in GR}$
   + $\color{orange}\text{Seeding mechanisms }$
   + $\color{green}\text{Mocking faint black holes during reionization}$
