@@ -21,7 +21,7 @@
 
 <table style="width: 100%;">
   <tr>
-    <td style="width: 80%;">
+    <td style="width: 100%;">
       <img src="Dens_00001.png" alt="" width="400" />
     </td>
     <td>
