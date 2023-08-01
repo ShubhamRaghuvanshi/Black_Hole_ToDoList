@@ -19,11 +19,13 @@
 + $\color{green}\text{Run DM simulations with MPI }$
 + $\color{green}\text{Think and plot interesting aspects of the output and see how it fits the Standard model }$
 
- ![alt text](Dens_00001.png) ![alt text](OverDensity_00001.png)
- ![alt text](Dens_00002.png) ![alt text](OverDensity_00002.png)
- ![alt text](Dens_00003.png) ![alt text](OverDensity_00003.png)
- ![alt text](Dens_00004.png) ![alt text](OverDensity_00004.png)
- ![alt text](Dens_00005.png) ![alt text](OverDensity_00005.png)
- ![alt text](Dens_00005.png)
-
-
+<table>
+  <tr>
+    <td>
+      <img src="Dens_00001.png" alt="" width="400" />
+    </td>
+    <td>
+      <img src="OverDensity_00001.png" alt="Image 2" width="400" />
+    </td>
+  </tr>
+</table>
