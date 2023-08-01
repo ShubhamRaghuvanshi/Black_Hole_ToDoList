@@ -22,10 +22,10 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="Dens_00001.png" alt="" width="640" height="400" />
+      <img src="Dens_00001.png" alt="" width="680" height="400" />
     </td>
     <td>
-      <img src="OverDensity_00001.png" alt="Image 2" width="640" height="400" />
+      <img src="OverDensity_00001.png" alt="Image 2" width="800" height="400" />
     </td>
   </tr>
 </table>
