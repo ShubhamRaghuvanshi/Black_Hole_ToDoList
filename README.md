@@ -19,9 +19,9 @@
 + $\color{green}\text{Run DM simulations with MPI }$
 + $\color{green}\text{Think and plot interesting aspects of the output and see how it fits the Standard model }$
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <td>
+    <td style="width: 80%;">
       <img src="Dens_00001.png" alt="" width="400" />
     </td>
     <td>
