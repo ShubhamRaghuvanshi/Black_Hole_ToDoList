@@ -13,11 +13,17 @@
 + $\color{green}\text{Run example simualtions (1Dtube) and analyze data }$
 + $\color{orange}\text{Understand details of DM initial conditions relavant for simulation } $
   + $\color{green}\text{Multi-scale initial conditions for cosmological simulations (O. Hahn, T. Abel) } $
-  + $\color{orange}\text{The large-scale orientations of disc galaxies (O. Hahn) }$
   + $\color{orange}\text{The properties of cosmic velocity fields (O. Hahn, T. Abel) }$
   + $\color{green}\text{Multiscale Gaussian Random Fields and Their Application to Cosmological Simulations (Edmund Bertschinger) } $
 + $\color{green}\text{Generate DM Initial conditions (graphic, music) }$
 + $\color{green}\text{Run DM simulations with MPI }$
 + $\color{green}\text{Think and plot interesting aspects of the output and see how it fits the Standard model }$
+
+ ![alt text](sink_img.png) ![alt text](sink_img.png)
+ ![alt text](sink_img.png) ![alt text](sink_img.png)
+ ![alt text](sink_img.png) ![alt text](sink_img.png)
+ ![alt text](sink_img.png) ![alt text](sink_img.png)
+ ![alt text](sink_img.png) ![alt text](sink_img.png)
+ ![alt text](sink_img.png)
 
 
