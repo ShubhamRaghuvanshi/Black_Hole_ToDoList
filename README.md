@@ -15,7 +15,6 @@
   + $\color{green}\text{Multi-scale initial conditions for cosmological simulations (O. Hahn, T. Abel) } $
   + $\color{green}\text{The properties of cosmic velocity fields (O. Hahn, T. Abel) }$
   + $\color{green}\text{Multiscale Gaussian Random Fields and Their Application to Cosmological Simulations (Edmund Bertschinger) } $
-+ $\color{green}\text{Generate DM Initial conditions (graphic, music) }$
 + $\color{green}\text{Run DM simulations and plot physical quantities }$
 
 <table style="width: 100%;">
