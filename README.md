@@ -86,6 +86,7 @@
 
 + $\color{green}\text{Run GAS+DM simulations without Cooling and plot physical quantities }$
 
+![Alt Text][gasdens.gif] 
 
 
 
