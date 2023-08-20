@@ -20,10 +20,10 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="Dens_00001.png" alt="" width="600" />
+      <img src="DMdens_00001.png" alt="" width="600" />
     </td>
     <td>
-      <img src="OverDensity_00001.png" alt="" width="600" />
+      <img src="Dmdelrho_00001.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -31,10 +31,10 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="Dens_00002.png" alt="" width="600" />
+      <img src="DMdens_00003.png" alt="" width="600" />
     </td>
     <td>
-      <img src="OverDensity_00002.png" alt="" width="600" />
+      <img src="Dmdelrho_00003.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -42,10 +42,10 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="Dens_00003.png" alt="" width="600" />
+      <img src="DMdens_00005.png" alt="" width="600" />
     </td>
     <td>
-      <img src="OverDensity_00003.png" alt="" width="600" />
+      <img src="Dmdelrho_00005.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -53,21 +53,22 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="Dens_00004.png" alt="" width="600" />
+      <img src="DMdens_00008.png" alt="" width="600" />
     </td>
     <td>
-      <img src="OverDensity_00004.png" alt="" width="600" />
+      <img src="Dmdelrho_00008.png" alt="" width="600" />
     </td>
   </tr>
 </table>
 
+
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="Dens_00005.png" alt="" width="600" />
+      <img src="DMdens_00011.png" alt="" width="600" />
     </td>
     <td>
-      <img src="OverDensity_00005.png" alt="" width="600" />
+      <img src="Dmdelrho_00011.png" alt="" width="600" />
     </td>
   </tr>
 </table>
