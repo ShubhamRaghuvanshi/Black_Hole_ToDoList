@@ -23,7 +23,7 @@
       <img src="DMdens_00001.png" alt="" width="600" />
     </td>
     <td>
-      <img src="Dmdelrho_00001.png" alt="" width="600" />
+      <img src="DMdelrho_00001.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -34,7 +34,7 @@
       <img src="DMdens_00003.png" alt="" width="600" />
     </td>
     <td>
-      <img src="Dmdelrho_00003.png" alt="" width="600" />
+      <img src="DMdelrho_00003.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -45,7 +45,7 @@
       <img src="DMdens_00005.png" alt="" width="600" />
     </td>
     <td>
-      <img src="Dmdelrho_00005.png" alt="" width="600" />
+      <img src="DMdelrho_00005.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@
       <img src="DMdens_00008.png" alt="" width="600" />
     </td>
     <td>
-      <img src="Dmdelrho_00008.png" alt="" width="600" />
+      <img src="DMdelrho_00008.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -68,7 +68,7 @@
       <img src="DMdens_00011.png" alt="" width="600" />
     </td>
     <td>
-      <img src="Dmdelrho_00011.png" alt="" width="600" />
+      <img src="DMdelrho_00011.png" alt="" width="600" />
     </td>
   </tr>
 </table>
