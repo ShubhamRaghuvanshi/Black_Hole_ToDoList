@@ -56,7 +56,7 @@
       <img src="DMdens_00008.png" alt="" width="600" />
     </td>
     <td>
-      <img src="DMdelrho_00008.png" alt="" width="600" />
+      <img src="DMdelrho_00008.png" alt="" width="550" />
     </td>
   </tr>
 </table>
