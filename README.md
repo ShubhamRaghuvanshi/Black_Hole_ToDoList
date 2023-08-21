@@ -90,11 +90,11 @@
 
 <p align="center">
   <figure>
-    <img src="gasdens.gif" alt="GIF 1" width="500" />
+    <img src="gasdens.gif" alt="" width="500" />
     <figcaption>Projected gas density</figcaption>
   </figure>
   <figure>
-    <img src="Dmdens.gif" alt="GIF 2" width="500" />
+    <img src="Dmdens.gif" alt="" width="500" />
     <figcaption>Projected DM density</figcaption>
   </figure>
 </p>
