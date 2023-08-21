@@ -90,7 +90,7 @@
 
 <table>
   <tr>
-    <td><img src="gasdens.gif" alt="" width="200"></td>
-    <td><img src="DMdens.gif" alt="" width="200"></td>
+    <td><img src="gasdens.gif" alt="" width="300"></td>
+    <td><img src="DMdens.gif" alt="" width="300"></td>
   </tr>
 </table>
