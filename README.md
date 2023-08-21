@@ -102,7 +102,7 @@
 
 <p align="center">
   <img src="gastemp.gif" alt="GIF 1" width="500" />
-  <img src="gastemp.gif" alt="GIF 2" width="500" />
+  <img src="gaspres.gif" alt="GIF 2" width="500" />
 </p>
 
 
