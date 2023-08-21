@@ -88,15 +88,13 @@
 
 + $\color{green}\text{Run GAS+DM simulations without Cooling and plot physical quantities }$
 
-<div style="overflow-x: auto;">
-  <table style="width: 200%; table-layout: fixed;">
-    <tr>
-      <td style="width: 100%; padding: 5px; text-align: center;">
-        <img src="gasdens.gif" alt="GIF 1" style="max-width: 100%;">
-      </td>
-      <td style="width: 100%; padding: 5px; text-align: center;">
-        <img src="DMdens.gif" alt="GIF 2" style="max-width: 100%;">
-      </td>
-    </tr>
-  </table>
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="gasdens.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="DMdens.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
