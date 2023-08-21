@@ -81,10 +81,10 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="PShmf.png" alt="" width="600" />
+      <img src="hmf_dmonly_ps.png" alt="" width="600" />
     </td>
     <td>
-      <img src="SThmf.png" alt="" width="600" />
+      <img src="hmf_dmonly_st.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -135,6 +135,16 @@
   <img src="pres_proj_cool.gif" alt="GIF 2" width="500" />
 </p>
 
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="hmf_cool_ps.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="hmf_cool_st.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
 
 
 
