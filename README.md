@@ -94,7 +94,7 @@
       <img src="gasdens.png" alt="" width="600" />
     </td>
     <td>
-      <img src="DMdens.png" alt="" width="600" />
+      <img src="DMdens.png" alt="" width="400" />
     </td>
   </tr>
 </table>
