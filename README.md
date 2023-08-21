@@ -93,5 +93,5 @@
   <img src="DMdens.gif" alt="GIF 2" width="500" />
 </p>
 
-+ $\color{BLavk}\text{ Projected Gas density                    Projected DM density }$
++ $\color{BLavk}\text{ Projected Gas density &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Projected DM density }$
 
