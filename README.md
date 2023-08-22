@@ -111,6 +111,30 @@
   <img src="DMdelrho_256.gif" alt="GIF 2" width="500" />
 </p>
 
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="hmf_dmonly256_ps.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="hmf_dmonly256_st.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="hmf_dmonly256_jn.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="hmf_dmonly256_tk.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 + $\color{green}\text{Run GAS+DM simulations without Cooling and plot physical quantities }$ <br>
   
@@ -145,10 +169,21 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="hmf_dmandgas_ps.png" alt="" width="600" />
+      <img src="hmf_dmgas_basic_ps.png" alt="" width="600" />
     </td>
     <td>
-      <img src="hmf_dmandgas_st.png" alt="" width="600" />
+      <img src="hmf_dmgas_basic_st.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="hmf_dmgas_basic_jn.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="hmf_dmgas_basic_tk.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -181,6 +216,28 @@
   </tr>
 </table>
 
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="hmf_dmgas_cool_ps.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="hmf_dmgas_cool_st.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="hmf_dmgas_cool_jn.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="hmf_dmgas_cool_tk.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
 
 
 
