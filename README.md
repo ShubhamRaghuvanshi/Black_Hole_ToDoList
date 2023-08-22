@@ -81,10 +81,14 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="hmf_dmonly_ps.png" alt="" width="600" />
+      <img src="hmf_dmonly128_ps.png" alt="" width="400" />
     </td>
     <td>
-      <img src="hmf_dmonly_st.png" alt="" width="600" />
+      <img src="hmf_dmonly128_st.png" alt="" width="400" />
+    </td>
+  </tr>
+    <td>
+      <img src="hmf_dmonly128_jn.png" alt="" width="400" />
     </td>
   </tr>
 </table>
