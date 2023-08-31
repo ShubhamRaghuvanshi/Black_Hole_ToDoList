@@ -194,10 +194,10 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="gasdens_proj_z_basic_zoom.png" alt="" width="600" />
+      <img src="gasdens_proj_z_basic_zoom_15.png" alt="" width="600" />
     </td>
     <td>
-      <img src="gastemp_proj_z_basic_zoom.png" alt="" width="600" />
+      <img src="gastemp_proj_z_basic_zoom_15.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -259,10 +259,10 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="gasdens_proj_z_cool_zoom.png" alt="" width="600" />
+      <img src="gasdens_proj_z_cool_zoom_15.png" alt="" width="600" />
     </td>
     <td>
-      <img src="gastemp_proj_z_cool_zoom.png" alt="" width="600" />
+      <img src="gastemp_proj_z_cool_zoom_15.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -324,10 +324,10 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="gasdens_proj_z_coolandstar_zoom.png" alt="" width="600" />
+      <img src="gasdens_proj_z_coolandstar_zoom_15.png" alt="" width="600" />
     </td>
     <td>
-      <img src="gastemp_proj_z_coolandstar_zoom.png" alt="" width="600" />
+      <img src="gastemp_proj_z_coolandstar_zoom_15.png" alt="" width="600" />
     </td>
   </tr>
 </table>
