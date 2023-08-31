@@ -219,10 +219,7 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="hmf_cool.png" alt="" width="600" />
-    </td>
-    <td>
-      <img src="hmf_cool.png" alt="" width="600" />
+      <img src="hmf_cool.png" alt="" width="12000" />
     </td>
   </tr>
 </table>
