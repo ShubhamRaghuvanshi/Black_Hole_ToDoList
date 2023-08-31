@@ -174,7 +174,18 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
+      <img src="T_N_phaseplot_z_13.png" alt="" width="600" />
+    </td>
+    <td>
       <img src="T_N_phaseplot_z_14.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="NFW_basic_00013.png" alt="" width="600" />
     </td>
     <td>
       <img src="NFW_basic_00014.png" alt="" width="600" />
