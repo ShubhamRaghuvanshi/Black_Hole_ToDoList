@@ -193,27 +193,27 @@
   </tr>
 </table>
 
-+ $\color{green}\text{Run GAS+DM simulations with Cooling only }$ <br>
++ $\color{green}\text{GAS+DM simulations with Cooling only }$ <br>
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Projected Gas density &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Projected DM density 
 
 <p align="center">
-  <img src="gasdens_proj_basic.gif" alt="GIF 1" width="500" />
-  <img src="DMdens_basic.gif" alt="GIF 2" width="500" />
+  <img src="gasdens_proj_cool.gif" alt="GIF 1" width="500" />
+  <img src="DMdens_cool.gif" alt="GIF 2" width="500" />
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Projected Gas Temperature &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Projected Gas Pressure 
 
 <p align="center">
-  <img src="gastemp_proj_basic.gif" alt="GIF 1" width="500" />
-  <img src="gaspres_proj_basic.gif" alt="GIF 2" width="500" />
+  <img src="gastemp_proj_cool.gif" alt="GIF 1" width="500" />
+  <img src="gaspres_proj_cool.gif" alt="GIF 2" width="500" />
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gas Density slice &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gas Temperature slice 
 
 <p align="center">
-  <img src="gasdens_slice_basic.gif" alt="GIF 1" width="500" />
-  <img src="gastemp_slice_basic.gif" alt="GIF 2" width="500" />
+  <img src="gasdens_slice_cool.gif" alt="GIF 1" width="500" />
+  <img src="gastemp_slice_cool.gif" alt="GIF 2" width="500" />
 </p>
 
 <table style="width: 100%;">
@@ -230,10 +230,10 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="T_N_phaseplot_z_13.png" alt="" width="600" />
+      <img src="T_N_phaseplot_cool_z_13.png" alt="" width="600" />
     </td>
     <td>
-      <img src="T_N_phaseplot_z_14.png" alt="" width="600" />
+      <img src="T_N_phaseplot_cool_z_14.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -241,10 +241,10 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="NFW_basic_00013.png" alt="" width="600" />
+      <img src="NFW_cool_00013.png" alt="" width="600" />
     </td>
     <td>
-      <img src="NFW_basic_00014.png" alt="" width="600" />
+      <img src="NFW_cool_00015.png" alt="" width="600" />
     </td>
   </tr>
 </table>
