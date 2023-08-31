@@ -163,13 +163,11 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
-      <img src="hmf_dmgas_basic_jn.png" alt="" width="600" />
-    </td>
-    <td>
-      <img src="hmf_dmgas_basic_tk.png" alt="" width="600" />
+      <img src="hmf_basic.png" alt="" width="12000" />
     </td>
   </tr>
 </table>
+
 
 <table style="width: 100%;">
   <tr>
