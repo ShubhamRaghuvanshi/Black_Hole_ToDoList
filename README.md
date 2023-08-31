@@ -191,6 +191,18 @@
   </tr>
 </table>
 
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="gasdens_proj_z_basic_zoom.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="gastemp_proj_z_basic_zoom.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
+
 + $\color{green}\text{GAS+DM simulations with Cooling only }$ <br>
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Projected Gas density &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Projected DM density 
@@ -240,6 +252,17 @@
     </td>
     <td>
       <img src="NFW_cool_00015.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="gasdens_proj_z_cool_zoom.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="gastemp_proj_z_cool_zoom.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -297,5 +320,17 @@
     </td>
   </tr>
 </table>
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="gasdens_proj_z_coolandstar_zoom.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="gastemp_proj_z_coolandstar_zoom.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
 
 
