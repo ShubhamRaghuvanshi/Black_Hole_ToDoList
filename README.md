@@ -248,6 +248,17 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 100%;">
+      <img src="coolingfunction_cool_13.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="T_N_phaseplot_cool_z_15.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
       <img src="NFW_cool_00013.png" alt="" width="600" />
     </td>
     <td>
@@ -303,6 +314,17 @@
   <tr>
     <td style="width: 100%;">
       <img src="T_N_phaseplot_coolandstar_z_13.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="T_N_phaseplot_coolandstar_z_15.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="coolingfunction_coolandstar_13.png" alt="" width="600" />
     </td>
     <td>
       <img src="T_N_phaseplot_coolandstar_z_15.png" alt="" width="600" />
@@ -375,6 +397,18 @@
     </td>
   </tr>
 </table>
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="coolingfunction_newsfm_13.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="T_N_phaseplot_newsfm_z_15.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
 
 <table style="width: 100%;">
   <tr>
