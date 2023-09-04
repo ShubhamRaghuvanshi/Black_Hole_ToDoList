@@ -175,7 +175,7 @@
       <img src="T_N_phaseplot_z_13.png" alt="" width="600" />
     </td>
     <td>
-      <img src="T_N_phaseplot_z_14.png" alt="" width="600" />
+      <img src="T_N_phaseplot_basic_z_15.png" alt="" width="600" />
     </td>
   </tr>
 </table>
