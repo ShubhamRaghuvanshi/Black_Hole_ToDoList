@@ -251,7 +251,7 @@
       <img src="coolingfunction_cool_13.png" alt="" width="600" />
     </td>
     <td>
-      <img src="T_N_phaseplot_cool_z_15.png" alt="" width="600" />
+      <img src="coolingfunction_cool_15.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -327,7 +327,7 @@
       <img src="coolingfunction_coolandstar_13.png" alt="" width="600" />
     </td>
     <td>
-      <img src="T_N_phaseplot_coolandstar_z_15.png" alt="" width="600" />
+      <img src="coolingfunction_coolandstar_15.png" alt="" width="600" />
     </td>
   </tr>
 </table>
@@ -404,7 +404,7 @@
       <img src="coolingfunction_newsfm_13.png" alt="" width="600" />
     </td>
     <td>
-      <img src="T_N_phaseplot_newsfm_z_15.png" alt="" width="600" />
+      <img src="coolingfunction_newsfm_15.png" alt="" width="600" />
     </td>
   </tr>
 </table>
