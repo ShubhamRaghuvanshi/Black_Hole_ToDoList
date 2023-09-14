@@ -432,5 +432,30 @@
   </tr>
 </table>
 
++ $\color{green}\text{Comparision of feedback models }$ <br>
+
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="gasdens_proj_no_feedback_z_14.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="gasdens_proj_thermal_feedback_z_14.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="gasdens_proj_mech_noturb_z_14.png" alt="" width="600" />
+    </td>
+    <td>
+      <img src="gasdens_proj_mech_turb_z_14.png" alt="" width="600" />
+    </td>
+  </tr>
+</table>
+
 
 
