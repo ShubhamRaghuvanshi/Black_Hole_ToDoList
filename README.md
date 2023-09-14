@@ -473,6 +473,13 @@
   </tr>
 </table>
 
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="hmf_no_feedback.png" alt="" width="12000" />
+    </td>
+  </tr>
+</table>
 
 
 
