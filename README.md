@@ -2,8 +2,7 @@
 
 # Black_Hole_ToDoList
 
-## $\color{green} \text{Done  }, \color{orange} \text{In progress  }, \color{Red} \text{To be started soon} $
-
++ $\color{green} \text{Done  }, \color{orange} \text{In progress  }, \color{Red} \text{To be started soon} $
 + $\color{green} \text{Read RAMSES code paper and user manual}$
 + $\color{orange}\text{Read up about Black holes and LCDM cosmology}(z = \infty \to z=6) $
   + $\color{orange}\text{Black hole types and formation scenario}$
